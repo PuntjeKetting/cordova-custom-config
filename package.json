@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dpa99c/cordova-custom-config.git"
+        "url": "https://github.com/PuntjeKetting/cordova-custom-config.git"
     },
     "cordova": {
         "id": "cordova-custom-config",
