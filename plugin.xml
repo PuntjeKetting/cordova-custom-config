@@ -12,7 +12,7 @@
         <engine name="cordova" version=">=3.0.0" />
     </engines>
 
-    <repo>https://github.com/dpa99c/cordova-custom-config.git</repo>
+    <repo>https://github.com/PuntjeKetting/cordova-custom-config.git</repo>
     <issue>https://github.com/dpa99c/cordova-custom-config/issues</issue>
 
     <keywords>ecosystem:cordova,cordova,phonegap,ios,android,config,configuration,plist,manifest</keywords>
